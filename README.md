@@ -5,7 +5,7 @@
 #### > Advanced Electronics Devices Research Lab
 ##### >> 2019.1.2 ~ 2019.2.8
 
-#### >Nepes
+#### > Nepes
 ##### >> 2019.6.17 ~ 2019.8.9
 
 #### > Intelligent Digital Systems Lab
