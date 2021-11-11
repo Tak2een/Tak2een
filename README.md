@@ -17,6 +17,9 @@
 #### > HygenPower (Developer)
 ##### >> 2020.9.1 ~ 2021.6.30
 
+#### > Intelligent Digital Systems Lab
+##### >> 2021.1.4 ~ 2020.2.9
+
 #### > Univa
 ##### >> 2021.7.1 ~ Current
 
