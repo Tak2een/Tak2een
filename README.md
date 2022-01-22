@@ -14,14 +14,17 @@
 #### > HygenPower (Intern)
 ##### >> 2020.7.1 ~ 2020.8.25
 
-#### > HygenPower (Developer)
+#### > HygenPower (System Developer)
 ##### >> 2020.9.1 ~ 2021.6.30
 
 #### > Intelligent Digital Systems Lab
 ##### >> 2021.1.4 ~ 2020.2.9
 
-#### > Univa
-##### >> 2021.7.1 ~ Current
+#### > Univa (AI Developer)
+##### >> 2021.7.1 ~ 2021. 12. 24
+
+#### > Oncloud9 (AI & Solidity Developer)
+##### >> 2021. 1. 10 ~
 
 
 <!--
