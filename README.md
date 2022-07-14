@@ -1,5 +1,7 @@
 ### Hello world!! Most of project is Private.👋
 
+#### Python, Solidity, JavaScript, TypeScript
+
 ### 🔭 Experiences
 
 #### > Advanced Electronics Devices Research Lab
