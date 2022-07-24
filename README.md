@@ -1,6 +1,7 @@
 ### Hello world!! Most of project is Private.👋
 
-#### Python, Solidity, JavaScript, TypeScript
+## #💬 language (frequency: asc)
+### typescript | javascript | python | C++ | Solidity
 
 ### 🔭 Experiences
 
