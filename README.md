@@ -1,9 +1,9 @@
 ### Hello world!! 👋
 
-# ### 💬 Language
+# 💬 Language
 #### typescript | javascript | python | C++ | Solidity
 
-# ### 🔭 Experiences
+# 🔭 Experiences
 
 #### > Advanced Electronics Devices Research Lab (Device Researcher)
 #### > Nepes (Device Developer)
