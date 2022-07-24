@@ -1,6 +1,6 @@
 ### Hello world!! 👋
 
-## # 💬 Language
+# # 💬 Language
 ### typescript | javascript | python | C++ | Solidity
 
 ### 🔭 Experiences
