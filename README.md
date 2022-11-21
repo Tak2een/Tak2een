@@ -1,7 +1,7 @@
 ### Hello world!! 👋
 
 Portfolio
--> https://www.notion.so/Software-Developer-c2e4bc8a6fb64749ab3c8c2c1f2fc1b8
+-> [https://www.notion.so/Software-Developer-c2e4bc8a6fb64749ab3c8c2c1f2fc1b8]
 
 ## 💬 Language
 #### typescript | javascript | python | C++ | Solidity
