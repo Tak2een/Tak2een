@@ -4,7 +4,10 @@ Portfolio
 -> [https://www.notion.so/Software-Developer-c2e4bc8a6fb64749ab3c8c2c1f2fc1b8]
 
 ## 💬 Language
-#### typescript | javascript | python | C++ | Solidity
+#### typescript | javascript | python | C++ | Solidity | Dart
+
+## FrameWork
+#### React | NextJs | VueJs | Spring | Flutter
 
 ## 🔭 Experiences
 
