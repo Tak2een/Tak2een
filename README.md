@@ -7,7 +7,14 @@ Portfolio
 #### typescript | javascript | python | C++ | Solidity | Dart
 
 ## FrameWork
-#### React | NextJs | VueJs | Spring | Flutter
+#### Frontend
+###### React | NextJs | Flutter
+
+#### Backend
+###### Strapi | Spring | Mybatis
+
+#### AI
+###### Transformer | torch | tensorflow
 
 ## 🔭 Experiences
 
@@ -16,11 +23,11 @@ Portfolio
 #### > Intelligent Digital Systems Lab(AI Researcher)
 #### > HygenPower (System Developer)
 #### > Univa (AI Developer)
-
 #### > Oncloud9 (AI & Solidity Developer & Frontend & Backend)
-##### >> 2021. 1. 10 ~
 
 
+#### > Zefit (AI & Frontend & Backend & CI)
+##### >> 2021. 11. 10 ~ 
 <!--
 **Tak2een/Tak2een** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
