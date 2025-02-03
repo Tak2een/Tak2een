@@ -23,8 +23,11 @@
 #### > Oncloud9 (AI & Solidity Developer & Frontend & Backend)
 
 
-#### > Zefit (AI & Frontend & Backend & CI)
-##### >> 2021. 11. 10 ~ 
+#### > Zefit (AI & Frontend & Backend & CI/CD)
+##### >> 2022. 11. 10 ~ 2025. 01. 18.
+
+#### > Movers (AI & SI Engineer)
+##### >> 2025. 01. 18.
 <!--
 **Tak2een/Tak2een** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
